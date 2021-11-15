@@ -1,4 +1,4 @@
-a = int(input())
+a = int(input("Ведите число"))
 
 b = 1
 
