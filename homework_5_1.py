@@ -1,4 +1,4 @@
-a = [s for s in input("Введите ваш список").split()]
+a = [s for s in input("Введите ваш список.").split()]
 k = int(input("Введите 'id' элемента который вы хотите удалить"))
 
 for i in range(k + 1, len(a)):
