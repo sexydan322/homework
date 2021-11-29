@@ -1,4 +1,4 @@
-a = int(input('Ваша длина'))
+a = int(input('Введите длину'))
 for i in range(2 * a + 1):
     if i <= a:
         print(' ' * (a - i) + '*' * (i + 1) + '*' * i)

@@ -1,4 +1,4 @@
-a = int(input("Enter the number of rows"))
+a = int(input("Введите длину"))
 for i in range(1, a):
     print(' '*(a-i), '* ' * ( i ))
 
