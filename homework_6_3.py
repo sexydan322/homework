@@ -1,4 +1,4 @@
-a = int(input("Введите длину"))
+a = int(input("Введите длину."))
 for i in range(1, a):
     print(' '*(a-i), '* ' * ( i ))
 
